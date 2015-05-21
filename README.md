@@ -1,5 +1,5 @@
 # Obstacle-Detection-Proto
-Computer Vision - Obstacle Detection System (SPOD System)
+Computer Vision - Moving Obstacle Detection System (SPOD System)
 
 README: SPOD System   Version 1                13 May 2015
 
@@ -7,15 +7,22 @@ Shaun S. Mataire (shaun.mataire@live.com)
 
 Jason Liu ()
 
+## Algorithm
+* Find feature points (MOPS)
+* Track feature point movements (Lucas-Kanade Optical Flow)
+* Find locations of significant movements
+* Cluster the movements based on loctions and direction (K-Means)
+* Establish cluster relavance and significance
+
 ## Usage
 call 'SPODSystem' in MatLab
 
 ## Frame Processing
-
 + Image 1 - Optical Flow Detection
 + Image 2 - Locations of Optical FLow
 + Image 3 - Groups of Related Flows(Obstacles/Objects)
 ![Frame Proccesing"](aaaa.gif)
+
 ## Console Output: 
 This output is the for the relavence of obstacle.
 The first column is the The Frame Number, the second if the Cluster
