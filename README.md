@@ -14,6 +14,19 @@ Jason Liu ()
 * Cluster the movements based on loctions and direction (K-Means)
 * Establish cluster relavance and significance
 
+## Key Steps
+### Find feature points (MOPS)
+![Features](img/untitled.png)
+
+### Optical FLow
+![Flow](img/zommedflowimage.png)
+
+### Locations of Significant Movements
+![Significant Movements](img/locationimage.png)
+
+### Obstacle Groups
+![Obstacle Groups](img/zoomedclasterimage.png)
+
 ## Usage
 call 'SPODSystem' in MatLab
 
@@ -21,7 +34,7 @@ call 'SPODSystem' in MatLab
 + Image 1 - Optical Flow Detection
 + Image 2 - Locations of Optical FLow
 + Image 3 - Groups of Related Flows(Obstacles/Objects)
-![Frame Proccesing"](aaaa.gif)
+![Frame Proccesing](aaaa.gif)
 
 ## Console Output: 
 This output is the for the relavence of obstacle.
