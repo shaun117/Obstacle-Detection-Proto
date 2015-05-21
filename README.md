@@ -12,8 +12,8 @@ Jason Liu ()
 SPODSystem
 
 ## Frame Processing
-![alt text](aaaa.gif "Frame Proccesing")
 
+![Frame Proccesing"](aaaa.gif)
 ## Console Output: 
 This output is the for the relavence of obstacle.
 The first column is the The Frame Number, the second if the Cluster
