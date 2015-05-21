@@ -15,16 +15,16 @@ Jason Liu ()
 * Establish cluster relavance and significance
 
 ## Key Steps
-### Find feature points (MOPS)
+### 1. Find feature points (MOPS)
 ![Features](img/untitled.png)
 
-### Optical FLow
+### 2. Optical FLow
 ![Flow](img/zoomedflowimage.png)
 
-### Locations of Significant Movements
+### 3. Locations of Significant Movements
 ![Significant Movements](img/locationimage.png)
 
-### Obstacle Groups
+### 4. Obstacle Groups
 ![Obstacle Groups](img/zoomedclasterimage.png)
 
 ## Usage
