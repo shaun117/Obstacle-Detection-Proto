@@ -8,6 +8,8 @@ function detectionImg = kpdet( img )
 % local maxima beyond a threshold (ie well localized features) are
 % indicated by non-zero entries.
 %
+% Authors
+%   Kevin Lee (Box 4088) Renn Jervis (Box 3762) 
 %
 % Lab:
 %  Feature Detection
