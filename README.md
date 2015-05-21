@@ -19,7 +19,7 @@ Jason Liu ()
 ![Features](img/untitled.png)
 
 ### Optical FLow
-![Flow](img/zommedflowimage.png)
+![Flow](img/zoomedflowimage.png)
 
 ### Locations of Significant Movements
 ![Significant Movements](img/locationimage.png)
