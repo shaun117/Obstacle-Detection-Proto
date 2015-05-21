@@ -3,15 +3,16 @@ Computer Vision Obstacle Detection
 
 # Obstacle Detection System
 
-========================================================================
 README: SPOD System   Version 1                             13 May 2015
 =========================================================+===============
 Shaun S. Mataire (shaun.mataire@live.com)
-
 Jason Liu ()
 
 ## Usage
 SPODSystem
+
+## Frame Processing
+![alt text](aaaa.gif "Frame Proccesing")
 
 ## Console Output: 
 This output is the for the relavence of obstacle.
